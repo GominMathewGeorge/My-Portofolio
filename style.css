@@ -1,7 +1,7 @@
 /* Global Styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
+    background-color: #eef2f7;
     color: #333;
     margin: 0;
     padding: 0;
@@ -27,6 +27,19 @@ h3, h4 {
 
 p {
     line-height: 1.6;
+}
+
+/* Custom styling for the introduction paragraph */
+p.intro {
+    text-align: center;
+    font-size: 1.2em;
+    color: #2c3e50; /* Change this to your preferred color */
+    background-color: #eef2f7; /* Light background to highlight the text */
+    padding: 15px;
+    border-radius: 5px;
+    max-width: 800px;
+    margin: 20px auto; /* Center the paragraph horizontally */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 ul {
@@ -60,4 +73,3 @@ section {
 body {
     background-color: #eef2f7;
 }
-
