@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+</head>
+<body>
+    <h1>Welcome to My Portfolio</h1>
+    <p>This is my personal portfolio showcasing projects in cybersecurity and software development.</p>
+    
+    <!-- Cybersecurity Section -->
+    <section id="cybersecurity">
+        <h2>Cybersecurity Projects</h2>
+        <article>
+            <h3>Security Hardening</h3>
+            <p>This project focuses on improving system security by tightening configurations and reducing vulnerabilities.</p>
+            <a href="Cybersecurity_Portfolio.pdf" target="_blank">Download Cybersecurity Portfolio</a> <!-- Link to your document -->
+        </article>
+    </section>
+
+    <!-- Software Development Section -->
+    <section id="software-development">
+        <h2>Software Development Projects</h2>
+
+        <!-- University Team Project -->
+        <article>
+            <h3>University Team Project (4 Members)</h3>
+            <p>This project was a collaborative effort between 4 team members to build a university comparison platform.</p>
+
+            <!-- University Comparison Website -->
+            <h4>University Comparison Website</h4>
+            <p>A full-stack application allowing users to compare universities based on ratings, reviews, tuition fees, and more.</p>
+            <ul>
+                <li><a href="https://github.com/kevalshah253/UniReviewCompare-Frontend" target="_blank">Frontend Repository</a></li>
+                <li><a href="https://github.com/kevalshah253/UniReviewCompare-Backend" target="_blank">Backend Repository</a></li>
+            </ul>
+        </article>
+    </section>
+</body>
+</html>
