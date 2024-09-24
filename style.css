@@ -33,13 +33,8 @@ p {
 p.intro {
     text-align: center;
     font-size: 1.2em;
-    color: #2c3e50; /* Change this to your preferred color */
-    background-color: #eef2f7; /* Light background to highlight the text */
-    padding: 15px;
-    border-radius: 5px;
-    max-width: 800px;
-    margin: 20px auto; /* Center the paragraph horizontally */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    color: #2c3e50;  /* Change this color to whatever you prefer */
+    margin: 20px auto;
 }
 
 ul {
