@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">  <!-- Link to the CSS file -->
+</head>
+<body>
+    <h1>Welcome to My Portfolio</h1>
+    <p>This is my personal portfolio showcasing projects in cybersecurity and software development.</p>
+
+    
+    <!-- Cybersecurity Section -->
+    <section id="cybersecurity">
+        <h2>Cybersecurity Projects</h2>
+
+        <!-- Security Hardening Section -->
+        <article>
+            <h3>Security Hardening</h3>
+
+            <!-- Incident Report Analysis Section -->
+            <h4>Incident Report Analysis</h4>
+            <p>This section focuses on incident reporting and analysis to improve security hardening strategies.</p>
+            <ul>
+                <li>
+                    <a href="Incident%20Report%20Analysis%20-%20NIST%20CSF.pdf" target="_blank">Download Incident Report Analysis - NIST CSF</a>
+                    <p>Description: This report provides an analysis of an incident using the NIST Cybersecurity Framework (CSF), outlining steps for incident response and security hardening.</p>
+                </li>
+            </ul>
+        </article>
+
+        <!-- Network Traffic Analysis Section -->
+        <article>
+            <h3>Network Traffic Analysis</h3>
+            <p>This section provides insights into analyzing network traffic to identify potential vulnerabilities and mitigate security risks.</p>
+            <ul>
+                <li>
+                    <a href="Incident%20Report%20-%20Network%20Traffic%20Analysis.pdf" target="_blank">Download Incident Report - Network Traffic Analysis</a>
+                    <p>Description: This report analyzes network traffic to identify vulnerabilities and potential risks, offering recommendations based on findings from real-world network data.</p>
+                </li>
+            </ul>
+        </article>
+    </section>
+
+    <!-- Software Development Section -->
+    <section id="software-development">
+        <h2>Software Development Projects</h2>
+
+        <!-- University Team Project -->
+        <article>
+            <h3>University Team Project (4 Members)</h3>
+            <p>This project was a collaborative effort between 4 team members to build a university comparison platform.</p>
+
+            <!-- University Comparison Website -->
+            <h4>University Comparison Website</h4>
+            <p>A full-stack application allowing users to compare universities based on ratings, reviews, tuition fees, and more.</p>
+            <ul>
+                <li><a href="https://github.com/kevalshah253/UniReviewCompare-Frontend" target="_blank">Frontend Repository</a></li>
+                <li><a href="https://github.com/kevalshah253/UniReviewCompare-Backend" target="_blank">Backend Repository</a></li>
+            </ul>
+        </article>
+    </section>
+</body>
+</html>
